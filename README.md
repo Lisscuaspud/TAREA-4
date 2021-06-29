@@ -16,6 +16,17 @@
 
 -MARCO TEORICO
 
+- TEMA #7
+
+![](https://user-images.githubusercontent.com/84397282/123733661-82093180-d861-11eb-868d-9ad7c167741a.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/123733662-82a1c800-d861-11eb-9f7a-169fd025c750.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/123733663-82a1c800-d861-11eb-85a5-85a5e3aaa42c.jpg)
+
+
+
+-TEMA #8
 
 
 
