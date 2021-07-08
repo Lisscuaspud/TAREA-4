@@ -36,6 +36,16 @@
 
 ![](https://user-images.githubusercontent.com/84397282/123870182-95ff7280-d8f7-11eb-96d4-52c51de6fef8.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/124843547-c5495b80-df57-11eb-9edb-97f08b9786e2.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/124843551-c5e1f200-df57-11eb-9260-dc64cfb33f91.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/124843552-c5e1f200-df57-11eb-8389-40e21668b366.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/124843554-c67a8880-df57-11eb-99cf-1f6a89446757.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/124843555-c67a8880-df57-11eb-88d6-50353a45b64b.jpg)
+
 
 - TEMA #8
 
