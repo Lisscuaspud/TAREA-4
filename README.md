@@ -5,7 +5,7 @@
 - Identificar de que manera las leyes de Kirchhoff se relacionana con los circuitos serie-paralelo mediante el analisis de la parte practica mostrada en el libro, para saber utilizar los metdosos a estudiar en diferentes tipos de circuitos en donde no solo trbajen resistencias si no, tambien elementos electronicos como lo pueden ser diodos zener y transistores.
 
 
--OBJETIVOS ESPECIFICOS
+-OBJETIVOS ESPECÍFICOS
 
 - Comprender los circuitos serie-paralelo con diagramas simples de resistencias para depues escalar con nuevos elementos electronicos.
 
@@ -14,7 +14,7 @@
 - Aplicar leyes de Kirchhoff para demostrar que los circuitos series paralelo tienen los mismos principios basicos que los circuitos serie y paralelo por separado.
 
 
--MARCO TEORICO
+-MARCO  TEÓRICO
 
 - TEMA #7
 
@@ -23,10 +23,6 @@
 ![](https://user-images.githubusercontent.com/84397282/123733662-82a1c800-d861-11eb-9f7a-169fd025c750.jpg)
 
 ![](https://user-images.githubusercontent.com/84397282/123733663-82a1c800-d861-11eb-85a5-85a5e3aaa42c.jpg)
-
-
-
--TEMA #8
 
 
 
@@ -46,9 +42,41 @@
 
 ![](https://user-images.githubusercontent.com/84397282/124843555-c67a8880-df57-11eb-88d6-50353a45b64b.jpg)
 
+- CONCLUSIONES 
+
+- EL uso de leyes de Kirchhoff ayuda a comprender la aplicacion de los mismos principios para el analisis de circuitos en los cuales existe variedad de elementos electronicos.
+
+-
+
+-
+
+- BIBLIOGRAFÍA
+
+-
+
+-
+
+-
 
 - TEMA #8
 
+- OBJETIVO GENERAL 
+
+- Analizar los métodos de ramas, mallas y nodos para determinar la solución de aquellos circuitos que resultan se complejos por poseer más de una fuente de voltaje o que no se pueden resolver con las técnicas antes usadas.
+
+- OBJETIVOS ESPECÍFICOS
+
+- Emplear los métodos de nodos y mallas para simplificar el circuito tanto como sea posible y así obtener una solución aplicando las leyes de ohm y Kirchhoff. 
+
+- Convertir las fuentes de corriente en fuentes de voltaje para facilitar el análisis de los circuitos.
+
+-
+
+- MARCO TEÓRICO
+
+
+
+- RESOLUCION DE EJERCICIOS O PROBLEMAS 
 
 
 -VIDEO
@@ -56,9 +84,19 @@
 
 -CONCLUSIONES
 
-- EL uso de leyes de Kirchhoff ayuda a comprender la aplicacion de los mismos principios para el analisis de circuitos en los cuales existe variedad de elementos electronicos.
+-
 
--BIBLIOGRAFIA
+-
+
+-
+
+BIBLIOGRAFÍA
+
+-
+
+-
+
+-
 
 
 
